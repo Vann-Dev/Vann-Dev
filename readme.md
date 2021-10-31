@@ -30,7 +30,6 @@ ___
 
 My social media
 
-<a href = "https://www.instagram.com/stevan.vincent/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://discordapp.com/users/435497505883422721/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>&nbsp;&nbsp;
 
 <a href="https://discordapp.com/users/435497505883422721/">
