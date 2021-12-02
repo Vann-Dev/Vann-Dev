@@ -10,7 +10,7 @@ ___
 
 👋 Hi im Vann
 
-Im 16 (He/His), I live in Indonesia, Hobby: Programming and Animating.
+I live in Indonesia, Hobby: Programming and Animating.
 ___
 
 This is the programming language that I often use
