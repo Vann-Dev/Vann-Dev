@@ -40,6 +40,4 @@ My social media
 
 <a href = "https://discordapp.com/users/435497505883422721/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>&nbsp;&nbsp;
 
-<a href="https://discordapp.com/users/435497505883422721/">
-  <img src="https://discord.c99.nl/widget/theme-3/435497505883422721.png" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/435497505883422721)](https://discord.com/users/435497505883422721)
