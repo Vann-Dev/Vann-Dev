@@ -86,6 +86,10 @@ ___
 
 <br clear="both">
 
+<div align="center">  
+  <img src="https://komarev.com/ghpvc/?username=Vann-Dev&color=A109C5" alt="Views" />
+</div>
+
 <img src="https://raw.githubusercontent.com/Vann-Dev/Vann-Dev/output/snake.svg" alt="Snake animation" />
 
 ###
