@@ -3,7 +3,7 @@
 ___ 
 ###
 
-  <img width="100%" align="center" height="auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FjYzhsaDAxanVrZW5iNXY3cmF6ZXplODkydHp6djFrMnRid2xweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MoG415YKfyiryUNfGm/giphy.gif"  />
+  <img width="100%" align="center" height="auto" src="https://content.vannapps.com/public/kafka-gif.gif"  />
 
 ___
 
