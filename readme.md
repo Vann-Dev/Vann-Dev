@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Stevan and I'm a Web Dev & App Dev from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Stevan Vincent and I'm a Web Dev & App Dev from Indonesia</h2>
 
 ___ 
 ###
