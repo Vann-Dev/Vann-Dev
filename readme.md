@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Stevan Vincent and I'm a Web Dev & App Dev from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Stevan and I'm a Web Developer & App Developer from Indonesia</h2>
 
+Currently active on full time coding, and do so many coding projects.
 ___ 
 ###
 
