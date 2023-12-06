@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋! My name is Stevan and I'm a Web Developer & App Developer from Indonesia</h2>
 
-Currently active on full time coding, and do so many coding projects.
+Currently active on FrontEnd Projects and some Fullstack Projects.
 ___ 
 ###
 
-  <img width="100%" align="center" height="auto" src="https://content.vannapps.com/public/vann-web.gif"  />
+  <a href="https://vann.my.id" >
+    <img width="100%" align="center" height="auto" src="https://content.vannapps.com/public/vann-web.gif"  />
+  </a>
 
 ___
 
