@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Stevan and I'm a Web Developer & App Developer from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Stevan and I'm a Fullstack Developer from Indonesia</h2>
 
-Currently active on FrontEnd Projects and some Fullstack Projects.
 ___ 
 ###
 
