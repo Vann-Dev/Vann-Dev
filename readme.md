@@ -91,8 +91,6 @@ ___
 <a href="https://wakatime.com/@Vann" target="_blank">
 	<img width="50%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vann&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
-<a href="" target="_blank">
-	<img width="50%" align="left" alt="Weekly Stats" src="https://spotify-recently-played-readme.vercel.app/api?user=28uaoru49bvxtdpxygbcfc2le&count=10">
-</a>
+<img width="50%" align="left" alt="Spotify Latest Songs" src="https://spotify-recently-played-readme.vercel.app/api?user=28uaoru49bvxtdpxygbcfc2le&count=10">
 
 ###
