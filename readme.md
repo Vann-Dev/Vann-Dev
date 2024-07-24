@@ -3,7 +3,7 @@
 ___ 
 ###
 
-![https://www.vann.my.id](https://github.com/Vann-Dev/Vann-Dev/assets/82990248/ded23d43-303b-46fb-996e-442128aa01bf)
+<img src="https://c.tenor.com/r5c67WCHZZcAAAAC/tenor.gif" width="100%" alt="stats graph"  />
   
 ___
 
