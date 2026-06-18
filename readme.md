@@ -1,12 +1,15 @@
-<h2 align="left">Hi 👋! My name is Stevan and I'm a Fullstack Developer from Indonesia</h2>
+<div align="center">
 
-___ 
-###
+<img
+  src="https://raw.githubusercontent.com/Vann-Dev/Vann-Dev/refs/heads/main/vd-logo.png"
+  width="40%"
+  alt="Vann-Dev Logo"
+/>
 
-<img src="https://c.tenor.com/r5c67WCHZZcAAAAC/tenor.gif" width="100%" alt="stats graph"  />
-  
-___
+# Hi 👋, I'm Stevan
 
+### Fullstack Developer from Indonesia
+</div>
 
 ###
 
