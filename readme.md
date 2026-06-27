@@ -6,9 +6,7 @@
   alt="Vann-Dev Logo"
 />
 
-# Hi 👋, I'm Stevan
-
-### Fullstack Developer from Indonesia
+# Hi 👋, I'm Vann
 </div>
 
 ###
@@ -18,6 +16,7 @@
   <img src="https://streak-stats.demolab.com?user=Vann-Dev&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
+
 ___
 
 ###
