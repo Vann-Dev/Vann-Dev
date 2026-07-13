@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vann's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 183, Total Commits  (last year) : 6787, Total PRs: 95, Total Issues: 9, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 184, Total Commits  (last year) : 6626, Total PRs: 95, Total Issues: 9, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.26454485134376;
+        stroke-dashoffset: 76.18771748689915;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >183</text>
+      >184</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >6.8k</text>
+      >6.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
